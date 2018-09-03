@@ -1,0 +1,5 @@
+main:
+  - title: "Recent Posts"
+    url: /recent/
+  - title: "About"
+    url: /about/
